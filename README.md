@@ -1,0 +1,1 @@
+# Jogo "Pedra, Pepel e Tesoura", desenvolvido durante a matéria de Linguagem de Programação 3.

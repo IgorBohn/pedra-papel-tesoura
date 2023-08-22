@@ -1,1 +1,3 @@
-# Jogo "Pedra, Pepel e Tesoura", desenvolvido durante a matéria de Linguagem de Programação 3.
+# Jogo "Pedra, Pepel e Tesoura" 
+
+Desenvolvido durante a matéria de Linguagem de Programação 3.
